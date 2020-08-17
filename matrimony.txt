@@ -1,2 +1,3 @@
 Welcome to Matrimony application. 
 This is a place where you can create a database of profiles.
+The profiles can consists of bio data of people who are looking for a match.
