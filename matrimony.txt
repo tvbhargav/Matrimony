@@ -1,0 +1,2 @@
+Welcome to Matrimony application. 
+This is a place where you can create a database of profiles.
